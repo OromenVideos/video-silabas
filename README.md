@@ -1,17 +1,20 @@
 # Sílabas
 
-Enlace al [vídeo](https://www.youtube.com/c/Oromen/)
-
 Código para generar palabras aleatorias en castellano
+
+## Invitación al servidor de Discord
+
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=vY5NAcvEqR)](https://discord.gg/vY5NAcvEqR)
+
+## Vídeo
+[![YouTube](http://i.ytimg.com/vi/bkOiHx0NIgo/hqdefault.jpg)](https://www.youtube.com/watch?v=bkOiHx0NIgo)
 
 
 ## Extraer palabras de [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
 Se proporciona en el repositorio el fichero `sylls.json` con las estadísticas de cada fonema.
-En el caso de querer generar un nuevo fichero, se deberá extraer la información de fonemas utilizando el repositorio oficial de wikipron.
-
-Repositorio original:
-https://github.com/CUNY-CL/wikipron
+En el caso de querer generar un nuevo fichero, se deberá extraer la información de fonemas utilizando el repositorio oficial de [wikipron](https://github.com/CUNY-CL/wikipron).
+Recuerda guardar también la información de _stress_ (la sílaba tónica).
 
 ### Limpiador de pronunciaciones
 
