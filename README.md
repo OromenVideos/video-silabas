@@ -7,6 +7,7 @@ Invitación al servidor de Discord:
 [![Discord Server Invite](https://invite.casperiv.dev?inviteCode=vY5NAcvEqR)](https://discord.gg/vY5NAcvEqR)
 
 Enlace al vídeo:
+
 [![YouTube](http://i.ytimg.com/vi/bkOiHx0NIgo/hqdefault.jpg)](https://www.youtube.com/watch?v=bkOiHx0NIgo)
 
 
